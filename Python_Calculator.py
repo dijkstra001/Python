@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 25 07:44:21 2020
 
-@author: nomad_047
+@author: Nathã Correia
 """
 import os
 import sys
