@@ -1,4 +1,4 @@
-E-commerce developed in Python
+## E-commerce developed in Python
 
-# Imports necessaries:
+### Imports necessaries:
 pip install django, django-summernote, djago-crispy-forms, pillow, mysql-client
